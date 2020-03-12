@@ -1,0 +1,6 @@
+variant: fcos
+version: 1.0.0
+passwd:
+  users:
+    - name: core
+      password_hash: "$6$qmRSIpg2s01drUPy$hABvM7KaEVuGu3nTdptjUo2VFICW3I/zeFJDT1jAf8CtiLesULInDeRmJso4/nR9BeQQzyJ.lf/bjRxkIEz3G1"
