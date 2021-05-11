@@ -1,6 +1,7 @@
 variant: fcos
-version: 1.0.0
+version: 1.3.0
 passwd:
   users:
     - name: core
-      password_hash: "$6$qmRSIpg2s01drUPy$hABvM7KaEVuGu3nTdptjUo2VFICW3I/zeFJDT1jAf8CtiLesULInDeRmJso4/nR9BeQQzyJ.lf/bjRxkIEz3G1"
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC459sKy6ogD+q4VP1WEywHuImv4GrWfpb7Eh5YhJmCvds3LwF593YNicq8mfrOQHuBPu2JA/ZIdws8Yg02Nd2G/s/syj92Zp6oBkcmAIi2+WivLgspBtfvgH5afyEuk457AhOfaj8gIzDrlAfN+hL6qdeZunnirGPD8xKJJHtwBLP2kM6yUD+B8bmgzOKDE66o9RZhOD0Z/26wE0izPM7JcZwf3WY8pqCnIw3+l8esmkwrcvj3ZevRzvPDen4qHrixJuVZ01FjDJVKI5t1StBX8rEF27RmQqr3NhVV0SjaH6RQ08hTlgFi9nnOYt+hh9+gNd6e4i0VDlEmKfn5mCuivJPSvFmWYDFj4qfySr4uA7ydQcB6TxKBJArKvAsHMvExIFgaqZS5Rc3f4zIq6vsf9BFEWJ47oBVwsE3ukXeGU3/h4Xm74JQBvtbBCZWMsUIN3+rQWdumVLqfoRQotlSkg1fgcSx5FZ9NuJKe4Auedlbws8nohAyXLvlLzrmDpjxu7xjPMARA1owtrbN/933vt5AKPRoCdRhPKIHEG1U9/BqqvkdB/5mH9OXHPnfgMIktZP1emhu/KghB51GhnR5DUKNOe8EdtGmHy13csd75iJbQs4EnmLy0ma8tDwKkSvb2WfC0RqDUk7mS93TWFLlFp19+98FbEf+alGvqDfdbrQ== vireakkeosokvibol@bondom.co
